@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>}"
+                 "value":" \t{<lobby>\/maps\/c3oc.json#start_chaospatinnen}"
                 }],
          "type":"tilelayer",
          "visible":true,
